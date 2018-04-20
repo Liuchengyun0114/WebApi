@@ -1,0 +1,9 @@
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\bin\Debug\Model.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\bin\Debug\LogWriter.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\bin\Debug\log4net.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\bin\Debug\LogWriter.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\obj\x86\Debug\Model.csprojResolveAssemblyReference.cache
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\obj\x86\Debug\Model.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\bin\Debug\Model.dll.config
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\bin\Debug\Model.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\Model\obj\x86\Debug\Model.dll

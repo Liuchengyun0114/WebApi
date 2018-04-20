@@ -1,0 +1,5 @@
+D:\TShotWorkSpace\SOURCE\PatrolServer\LogWriter\bin\Debug\LogWriter.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\LogWriter\bin\Debug\LogWriter.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\LogWriter\bin\Debug\log4net.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\LogWriter\obj\Debug\LogWriter.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\LogWriter\obj\Debug\LogWriter.pdb

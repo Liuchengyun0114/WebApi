@@ -1,0 +1,45 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  ul
+    li="C#"
+    li="Java"
+    li="VB"
+  h1 Jade - node template engine
+  - var currentUrl = '/about'
+    a(class={active: currentUrl === '/'} href='/') Home
+    a(class={active: currentUrl === '/about'} href='/about') About
+  .btn = 按钮
+  #container
+    - if(!false)
+      |You are amazing
+    - else
+      |Get on it!
+      |Get on it!
+      |Get on it!
+      |Get on it!
+  a(href="http://www.baidu.com",title="百度搜索")
+    img(src="images/1.jpg")/
+  input(type="text",value="abc")
+  input(type="checkbox" checked)
+  input(type="radio" checked=false)
+  input(type="textarea")
+  input(type="file")
+  // 测试分支
+  //- 这里不显示
+  - var friend = 10
+    case friend
+      when 0
+        h1 you have no friend
+      when 1
+        h2 you have a friend
+      default
+        h3 maybe you have some friend
+<!--[if IE 8]>
+<html lang="en" class="lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en">
+<!--<![endif]-->

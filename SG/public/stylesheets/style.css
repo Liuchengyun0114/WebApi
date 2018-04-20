@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+ul li{
+  list-style-image: radial-gradient(red 50%,green 50%, blue 50%);
+}
+.btn{
+  color:blue;
+  border:1px solid green;
+}
+@keyframes myfirst
+{
+  from {background: red;width:50%;}
+  to {background: yellow;}
+}
+@-webkit-keyframes myfirst /* Safari 与 Chrome */
+{
+  from {background: red;width:50%;}
+  to {background: yellow;width:100%;}
+}
+#div
+{
+  animation: myfirst 5s;
+  -webkit-animation: myfirst 5s; /* Safari 与 Chrome */
+  -webkit-animation-iteration-count: infinite;
+}
+#div#topnavbar{
+  display:inline-flex;
+}
+
+#mycan{
+  background-color:#fff;
+}

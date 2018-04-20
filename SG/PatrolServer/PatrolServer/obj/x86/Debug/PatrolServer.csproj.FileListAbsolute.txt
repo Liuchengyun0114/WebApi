@@ -1,0 +1,16 @@
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\PatrolServer.exe.config
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\PatrolServer.exe
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\PatrolServer.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\log4net.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\LogWriter.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\Model.dll
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\LogWriter.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\bin\Debug\Model.pdb
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.csprojResolveAssemblyReference.cache
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.csproj.ResolveComReference.cache
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.exe
+D:\TShotWorkSpace\SOURCE\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.pdb
+D:\Toney\XXBA\PatrolServer\PatrolServer\bin\Debug\PatrolServer.exe.config
+D:\Toney\XXBA\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.csproj.ResolveComReference.cache
+D:\Toney\XXBA\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.exe
+D:\Toney\XXBA\PatrolServer\PatrolServer\obj\x86\Debug\PatrolServer.pdb
